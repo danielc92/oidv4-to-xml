@@ -2,7 +2,9 @@
 Contains a notebook which can convert a folder of images/annotations in OIDv4 format to the XML format required for PASCAL-VOC.
 
 # Before you get started
-Basic python knowledge.
+- Knowledge about open images v4
+- Basic knowledge about images and annotations/labels for machine learning
+- Basic python knowledge (3.6.5 was used here)
 
 # Setup
 **How to obtain this repository:**
@@ -14,10 +16,11 @@ git clone https://github.com/danielc92/oidv4-to-xml.git
 
 Install the following dependences:
 ```sh
-pip pillow
+pip install pillow
 ```
 
 # Tests
+- Tested grabbing bounding boxes from OIDv4 .txt label file, accounting for multiple bounding boxes.
 - Tested converting french fries validation set into XML files successfully
 
 # Contributors
