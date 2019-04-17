@@ -7,7 +7,7 @@ Basic python knowledge.
 # Setup
 **How to obtain this repository:**
 ```sh
-git clone https//link.to.this.projects.git-repo
+git clone https://github.com/danielc92/oidv4-to-xml.git
 ```
 **Modules/dependencies:**
 - `pillow`
