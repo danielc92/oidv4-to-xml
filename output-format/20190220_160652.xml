@@ -1,0 +1,26 @@
+<annotation>
+	<folder>goat</folder>
+	<filename>20190220_160652.jpg</filename>
+	<path>C:\Users\romolo.rocchi\Desktop\goat\20190220_160652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>66</ymin>
+			<xmax>481</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
